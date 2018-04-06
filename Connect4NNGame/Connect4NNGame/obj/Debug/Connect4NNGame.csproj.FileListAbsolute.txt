@@ -1,0 +1,17 @@
+c:\users\bracc\documents\visual studio 2017\Projects\Connect4NNGame\Connect4NNGame\bin\Debug\Connect4NNGame.exe.config
+c:\users\bracc\documents\visual studio 2017\Projects\Connect4NNGame\Connect4NNGame\bin\Debug\Connect4NNGame.exe
+c:\users\bracc\documents\visual studio 2017\Projects\Connect4NNGame\Connect4NNGame\bin\Debug\Connect4NNGame.pdb
+c:\users\bracc\documents\visual studio 2017\Projects\Connect4NNGame\Connect4NNGame\obj\Debug\Connect4NNGame.csprojResolveAssemblyReference.cache
+c:\users\bracc\documents\visual studio 2017\Projects\Connect4NNGame\Connect4NNGame\obj\Debug\MainWindow.g.cs
+c:\users\bracc\documents\visual studio 2017\Projects\Connect4NNGame\Connect4NNGame\obj\Debug\App.g.cs
+c:\users\bracc\documents\visual studio 2017\Projects\Connect4NNGame\Connect4NNGame\obj\Debug\Connect4NNGame_MarkupCompile.cache
+c:\users\bracc\documents\visual studio 2017\Projects\Connect4NNGame\Connect4NNGame\obj\Debug\Connect4NNGame_MarkupCompile.lref
+c:\users\bracc\documents\visual studio 2017\Projects\Connect4NNGame\Connect4NNGame\obj\Debug\MainWindow.baml
+c:\users\bracc\documents\visual studio 2017\Projects\Connect4NNGame\Connect4NNGame\obj\Debug\Connect4NNGame.g.resources
+c:\users\bracc\documents\visual studio 2017\Projects\Connect4NNGame\Connect4NNGame\obj\Debug\Connect4NNGame.Properties.Resources.resources
+c:\users\bracc\documents\visual studio 2017\Projects\Connect4NNGame\Connect4NNGame\obj\Debug\Connect4NNGame.csproj.GenerateResource.Cache
+c:\users\bracc\documents\visual studio 2017\Projects\Connect4NNGame\Connect4NNGame\obj\Debug\Connect4NNGame.csproj.CoreCompileInputs.cache
+c:\users\bracc\documents\visual studio 2017\Projects\Connect4NNGame\Connect4NNGame\obj\Debug\Connect4NNGame.exe
+c:\users\bracc\documents\visual studio 2017\Projects\Connect4NNGame\Connect4NNGame\obj\Debug\Connect4NNGame.pdb
+c:\users\bracc\documents\visual studio 2017\Projects\Connect4NNGame\Connect4NNGame\obj\Debug\replayWindow.g.cs
+c:\users\bracc\documents\visual studio 2017\Projects\Connect4NNGame\Connect4NNGame\obj\Debug\replayWindow.baml
